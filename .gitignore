@@ -3,3 +3,27 @@
 ################################################################################
 
 /org.joey.common/bin/Debug
+/org.joey.common.test/bin/Debug
+/org.joey.common.test/obj/Debug
+/org.joey.common.test/bin/Debug/WaitingFix.html
+/org.joey.common.test/bin/Debug/org.joey.common.test.pdb
+/org.joey.common.test/bin/Debug/org.joey.common.test.dll
+/org.joey.common.test/bin/Debug/org.joey.common.pdb
+/org.joey.common.test/bin/Debug/org.joey.common.dll
+/org.joey.common.test/bin/Debug/Newtonsoft.Json.xml
+/org.joey.common.test/bin/Debug/Newtonsoft.Json.dll
+/org.joey.common.test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+/org.joey.common.test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/org.joey.common.test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/org.joey.common.test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/org.joey.common.test/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/org.joey.common.test/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/org.joey.common.test/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/org.joey.common.test/bin/Debug/Autofac.xml
+/org.joey.common.test/bin/Debug/Autofac.dll
+/packages
+/packages/Autofac.4.6.2
+/packages
+/packages
+/packages
+/packages

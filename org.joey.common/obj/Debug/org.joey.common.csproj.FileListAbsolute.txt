@@ -1,0 +1,11 @@
+D:\Workspaces\common\org.joey\org.joey.common\obj\Debug\org.joey.common.csprojResolveAssemblyReference.cache
+D:\Workspaces\common\org.joey\org.joey.common\obj\Debug\Org.Joey.Common.Resources.Strings.resources
+D:\Workspaces\common\org.joey\org.joey.common\obj\Debug\org.joey.common.csproj.GenerateResource.Cache
+D:\Workspaces\common\org.joey\org.joey.common\bin\Debug\org.joey.common.dll
+D:\Workspaces\common\org.joey\org.joey.common\bin\Debug\org.joey.common.pdb
+D:\Workspaces\common\org.joey\org.joey.common\bin\Debug\Newtonsoft.Json.dll
+D:\Workspaces\common\org.joey\org.joey.common\bin\Debug\Newtonsoft.Json.xml
+D:\Workspaces\common\org.joey\org.joey.common\obj\Debug\org.joey.common.dll
+D:\Workspaces\common\org.joey\org.joey.common\obj\Debug\org.joey.common.pdb
+D:\Workspaces\common\org.joey\org.joey.common\bin\Debug\Autofac.dll
+D:\Workspaces\common\org.joey\org.joey.common\bin\Debug\Autofac.xml
