@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\Execptions\RetryOutOfCountExecption.cs" />
     <Compile Include="Common\Extensions\CryptographyExtension.cs" />
     <Compile Include="Common\Extensions\CSVExtension.cs" />
     <Compile Include="Common\Extensions\DateTimeExtension.cs" />
