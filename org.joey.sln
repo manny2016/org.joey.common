@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{7F71
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.joey.common.test", "org.joey.common.test\org.joey.common.test.csproj", "{BE4D0402-1C38-4566-9AE4-7FDBCE637188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.joey.orm", "org.joey.orm\org.joey.orm.csproj", "{A178798F-9C75-4F2D-A264-9EB3F639895A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{BE4D0402-1C38-4566-9AE4-7FDBCE637188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE4D0402-1C38-4566-9AE4-7FDBCE637188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE4D0402-1C38-4566-9AE4-7FDBCE637188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A178798F-9C75-4F2D-A264-9EB3F639895A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A178798F-9C75-4F2D-A264-9EB3F639895A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A178798F-9C75-4F2D-A264-9EB3F639895A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A178798F-9C75-4F2D-A264-9EB3F639895A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
